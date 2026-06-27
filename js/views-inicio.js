@@ -241,7 +241,9 @@ Bueno aqui sigo, me falta desarrollar los Standings de los Goleadores, e integra
     {
         fecha: "26.Junio.2026 04:58pm",
         titulo: "Highlights",
-        texto: `Se agregó un breve resumen en video de aproximadamente <b>5 minutos</b> para cada partido, ideal para quienes no pudieron verlo en vivo.`
+        texto: `Se agregó un breve resumen en video de aproximadamente <b>5 minutos</b> para cada partido, ideal para quienes no pudieron verlo en vivo.<br><br>
+        
+        También se agregó la opción de poder instalar la APP en tu dispositivo, es 100% seguro y mucho más práctico, podrás recibir Notificaciones 15 minutos antes de que comience un partido, entre otras cosas!.`
     }    
 ];
 
