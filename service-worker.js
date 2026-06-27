@@ -1,4 +1,4 @@
-const APP_VERSION = "4.0.0";
+const APP_VERSION = "4.0.1";
 const CACHE_NAME = `quiniela-mundial-2026-v${APP_VERSION}`;
 
 const APP_SHELL = [
